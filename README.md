@@ -1,1 +1,1 @@
-# alx-system_engineering-devops README description
+README to store Shell Basics project files for this repo
